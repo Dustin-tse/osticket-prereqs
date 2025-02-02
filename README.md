@@ -61,7 +61,7 @@ After the web server and database is set up and in place, it's finally time to d
 
 <h2>5. Finalizing Installation and set up</h2>
 <p>
-<img src="https://i.imgur.com/KkQ3Yh1.png" height="40%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KkQ3Yh1.png" height="30%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/SIjnJ7c.png" height="60%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/fGO08sq.png" height="60%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
