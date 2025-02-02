@@ -53,7 +53,7 @@ I then installed a file called "MySQL 5.5.62" which is a database management sys
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After the web server and database is set upa nd in place, it's finally time to deploy and set up osTicket, I make sure to enable essential extensions in PHP Manager for IIS. We can finally see soemthing show up on a website. I finish by configuring osTicket with my desired credentials and details. This step is critical since it integrates osTicket with the web server and makes sure everything functions correctly before finishing.
+After the web server and database is set up and in place, it's finally time to deploy and set up osTicket, I make sure to enable essential extensions in PHP Manager for IIS. We can finally see soemthing show up on a website. I finish by configuring osTicket with my desired credentials and details. This step is critical since it integrates osTicket with the web server and makes sure everything functions correctly before finishing.
 </p>
 <br />
 
