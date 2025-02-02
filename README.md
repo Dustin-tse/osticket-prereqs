@@ -40,7 +40,7 @@ This project requires a few different item or resources to be installed, we will
 
 <h2>3. installing and configuring MySQL</h2>
 <p>
-<img src="https://i.imgur.com/fLxBTtS.png" height="45%" width="45%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/eJvhCuk.png" height="45%" width="45%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fLxBTtS.png" height="45%" width="45%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/eJvhCuk.png" height="55%" width="45%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I then installed a file called "MySQL 5.5.62" which is a database management system that will help store, manage, and retrieve structured data efficiently. I wil configure it with my selected credentials. I then installed a program called HeidiSQL which I can create a database for my tickets in osTicket. THis step is important because it provides my ticketing system with a structured data solution.
