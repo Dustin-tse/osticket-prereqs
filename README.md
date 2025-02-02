@@ -59,11 +59,11 @@ After the web server and database is set up and in place, it's finally time to d
 </p>
 <br />
 
-<h2>5. Finalizing Installation & Cleanup</h2>
+<h2>5. Finalizing Installation and set up</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The installation is now complete and you have a login site for admins to login and configure the help desk and agents who can login and work tickets. In addition you have a site in order to create tickets for users. Beware, the help desk is very bare bones right now and lacking many things like departments, teams, SLAs and other things which will be handled in the next sections.
 </p>
 <br />
