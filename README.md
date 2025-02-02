@@ -28,7 +28,7 @@ To begin the osTicket deployment, we first set up a Windows 10 virtual machine (
 <br />
 
 <p>
-<img src="https://i.imgur.com/YxHR2F8.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YxHR2F8.png" height="40%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/UcHxM03.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
