@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-<h2>1. Creating a virtual machine in order to create project</h2>
+
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>Installation Steps</h2>
-
+<h2>1. Creating a virtual machine in order to create project</h2>
 <p>
 <img src="https://i.imgur.com/cfeDIxl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
