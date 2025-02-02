@@ -27,7 +27,7 @@ You will need a microsoft azure subscription to create this project there is a p
 To begin the osTicket deployment, we first set up a Windows 10 virtual machine (VM) in Microsoft Azure. This VM serves as the foundation for hosting the ticketing system. We configure it with 4 vCPUs to ensure adequate performance but 2 vCPUs will do the trick. The machine is going to be named osticket-vm. In the creation of the vm you will create a new resource group when prompted and vnet, for the "image section we will use windows 10 pro, and we will create a username and password to access the machine (Username: labuser, Password: Password123). Once provisioning is complete, we use Remote Desktop Protocol (RDP) to log into the VM if you are using windows, preparing it for software installations and further configurations.
 </p>
 <br />
-
+<h2>2. Setting up IIS and Required Components</h2>
 <p>
 <img src="https://i.imgur.com/YxHR2F8.png" height="40%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/UcHxM03.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
