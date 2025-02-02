@@ -40,6 +40,7 @@ This project requires a few different item or resources to be installed, we will
 
 <h2>3. installing and configuring MySQL</h2>
 <p>
+<img src="https://i.imgur.com/fLxBTtS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/eJvhCuk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
