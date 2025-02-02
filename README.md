@@ -50,9 +50,9 @@ I then installed a file called "MySQL 5.5.62" which is a database management sys
 
 <h2>4. Deploying and Configuring osTicket</h2>
 <p>
-<img src="https://i.imgur.com/EAMunWc.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/bIL6HtW.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/byublq8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EAMunWc.png" height="70%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bIL6HtW.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/byublq8.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After the web server and database is set up and in place, it's finally time to deploy and set up osTicket, I make sure to enable essential extensions in PHP Manager for IIS. We can finally see soemthing show up on a website. I finish by configuring osTicket with my desired credentials and details. This step is critical since it integrates osTicket with the web server and makes sure everything functions correctly before finishing.
