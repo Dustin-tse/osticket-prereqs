@@ -28,7 +28,7 @@ To begin the osTicket deployment, we first set up a Windows 10 virtual machine (
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/YxHR2F8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This project requires a few different item or resources to be installed, we will install Internet Informatin Services (IIS) and enable CGI for this, intall PHP manager, and install a rewrite module to support the PHP applications. We will also unzip a file called PHP 7.3.8 and register it in IIS.
