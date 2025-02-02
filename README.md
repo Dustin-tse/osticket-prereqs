@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/cfeDIxl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/UcHxM03.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cfeDIxl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 You will need a microsoft azure subscription to create this project there is a pay as you go option or a free trial for $200 credit, after you make this subscription we will need a resource group that will house the vnet that then houses our virtual machine.
@@ -28,7 +28,7 @@ To begin the osTicket deployment, we first set up a Windows 10 virtual machine (
 <br />
 
 <p>
-<img src="https://i.imgur.com/YxHR2F8.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YxHR2F8.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/UcHxM03.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This project requires a few different item or resources to be installed, we will install Internet Informatin Services (IIS) and enable CGI for this, intall PHP manager, and install a rewrite module to support the PHP applications. We will also unzip a file called PHP 7.3.8 and register it in IIS.
