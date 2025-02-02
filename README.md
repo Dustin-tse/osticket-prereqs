@@ -43,7 +43,7 @@ This project requires a few different item or resources to be installed, we will
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then installed a file called "MySQL 5.5.62" which is a database management system that will help store, manage, and retrieve structured data efficiently. I wil configure it with my selected credentials. I then installed a program called HeidiSQL which I can create a database for my tickets in osTicket. THis step is important because it provides my ticketing system with a structured data solution.
 </p>
 <br />
 
