@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/7e51c8c0-30a0-496d-9b5f-8c80961a06e9)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cfeDIxl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 You will need a microsoft azure subscription to create this project there is a pay as you go option or a free trial for $200 credit, after you make this subscription we will need a resource group that will house the vnet that then houses our virtual machine.
